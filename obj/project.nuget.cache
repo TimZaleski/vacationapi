@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwhWB/DHdsqUPe/pMuEfycSUDQ5eLlUn1JyX7hGR+Yx7fqV1yA6n8N/7FIcn08r6Pkc/Vux/Nt/BBXqbXa3zig==",
+  "success": true,
+  "projectFilePath": "C:\\source\\codeworks\\vacationapi\\vacationapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zales\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zales\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zales\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\zales\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\zales\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\zales\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
